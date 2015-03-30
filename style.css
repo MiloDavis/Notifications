@@ -1,0 +1,23 @@
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+    border:0;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.module-row {
+    height:50%;
+    display:block;
+    margin:0;
+    border:0;
+}
+.module {
+    height:100%;
+    width:50%;
+    float:left;
+    margin:0;
+}
+.full-module {
+    height:100%;
+    width:100%;
+}
